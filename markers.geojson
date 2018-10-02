@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bib",
+        "url": "http://www.ruc.dk",
+        "description": "http://www.ruc.dk",
+        "draggable": "false",
+        "fill": "red",
+        "visible": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13590145111084,
+          55.651684214157626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "http://www.ruc.dk",
+        "title": "HumTek",
+        "description": "http://www.dr.dk",
+        "draggable": "false",
+        "fill": "green",
+        "visible": "True"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.138111591339111,
+          55.65313701530163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Workshop",
+        "url": "http://www.ruc.dk",
+        "description": "https://humtek-lbs.github.io/htmlSkabelon/",
+        "draggable": "true",
+        "fill": "blue",
+        "visible": "true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.141330242156982,
+          55.653294398856055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.138819694519043,
+          55.65224718099799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13958144187927,
+          55.65176896237154
+        ]
+      }
+    }
+  ]
+}
