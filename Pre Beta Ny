@@ -1,0 +1,390 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#001afd",
+        "marker-size": "small",
+        "Title": "Bibliotek 26",
+        "Description": "Et sted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.136588096618652,
+          55.651684214157626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#001afd",
+        "Title": "Studenterhus 13",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.137105762958527,
+          55.65197326534746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Servicedesk 14.1",
+        "marker-color": "#001afd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.137867510318756,
+          55.651974778698886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "triangle-stroked",
+        "Title": "Humtek 04 & 06",
+        "marker-color": "#001afd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13827520608902,
+          55.65303865025886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Store Auditorium 00",
+        "marker-color": "#001afd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.138688266277313,
+          55.65365153611367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Kantine & Student Hub 01",
+        "marker-color": "#001afd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.139576077461243,
+          55.65354560591098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "SamBach 22",
+        "marker-color": "#001afd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.135504484176636,
+          55.653093129390015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "SamBach 20",
+        "marker-color": "#001afd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.136628329753876,
+          55.653082536231565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "int. SamBach",
+        "marker-color": "#001afd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.136054337024689,
+          55.6530901027736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Laboratorier 08",
+        "marker-color": "#001afd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.139039635658264,
+          55.65240608146397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Geografi og TekSam 02",
+        "marker-color": "#001afd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.141003012657166,
+          55.653094642698115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Kopicentralen 12",
+        "marker-color": "#001afd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.140246629714966,
+          55.65240759479863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Vuggestuen Korallen 38",
+        "marker-color": "#001afd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.142108082771301,
+          55.65300081748431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Campus Service 37",
+        "marker-color": "#001afd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.142000794410706,
+          55.652413648136736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Varegård 36",
+        "marker-color": "#001afd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.141421437263489,
+          55.6524181881397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#001afd",
+        "marker-size": "small",
+        "Title": "Biograf",
+        "Description": "Et sted at se film",
+        "draggable": "false",
+        "fill": "#000000",
+        "visible": "true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.138551473617554,
+          55.65520413734151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#001afd",
+        "marker-size": "small",
+        "Title": "Trekroner Sø",
+        "draggable": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13364839553833,
+          55.65198991220965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "Title": "FabLab",
+        "marker-color": "#001afd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.137725353240967,
+          55.653040163569095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#001afd",
+        "marker-size": "small",
+        "Title": "sdvssd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13713526725769,
+          55.65275868686146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#001afd",
+        "marker-size": "small",
+        "Title": "sdgs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.137127220630646,
+          55.652433321479094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#001afd",
+        "marker-size": "small",
+        "fill": "",
+        "Title": "sfgs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.136577367782593,
+          55.652448454812664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#001afd",
+        "marker-size": "small",
+        "Title": "sffgs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.138256430625916,
+          55.65272993375053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#001afd",
+        "marker-size": "small",
+        "Title": "dgsvf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.139002084732056,
+          55.65272690710604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#001afd",
+        "marker-size": "small",
+        "Title": "fsvss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.140670418739319,
+          55.65460792154009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#001afd",
+        "marker-size": "small",
+        "Title": "sfvf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.141357064247131,
+          55.65458976254071
+        ]
+      }
+    }
+  ]
+}
